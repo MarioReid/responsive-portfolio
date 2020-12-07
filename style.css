@@ -1,3 +1,7 @@
+h1 {
+    color: teal
+}
+
 .myname {
     background-color: teal;
 }
@@ -23,4 +27,18 @@ body {
     width: 100%;
     background-color: rgb(44, 42, 42) !important;
     color: rgb(54, 42, 42);
+}
+
+.background {
+    background-color: white;
+    width:400px;
+    height:400px;
+    margin-top: 30px;
+}
+
+img {
+    float: left;
+    width: 120px;
+    height: 150px;
+    padding: 3px
 }
