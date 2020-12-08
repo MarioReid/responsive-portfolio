@@ -1,5 +1,6 @@
 h1 {
-    color: teal
+    color: teal;
+    font-family: 'Times New Roman', Times, serif;  
 }
 
 .myname {
@@ -18,7 +19,7 @@ h1 {
 }
 
 body {
-    background-image: url("./ignasi_pattern_s.png");
+    background-image: url("./ignasi_pattern_s.png");    
 }
 
 .footer {
