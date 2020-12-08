@@ -32,14 +32,25 @@ body {
 
 .background {
     background-color: white;
-    width:400px;
-    height:400px;
-    margin-top: 30px;
+    width:600px;
+    height:600px;
+    margin-top: 70px;
 }
 
-img {
-    float: left;
-    width: 120px;
-    height: 150px;
+.img {
+    width: 350px;
+    height: 350px;
+    border: 0;
+}
+
+ img {
+    float: left; 
+     width: 170px;
+    height: 230px;
     padding: 3px
+}
+
+.btn {
+    color:white;
+    background: teal;
 }
